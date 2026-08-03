@@ -8,10 +8,6 @@
  
 }
 
-/* .Feature1 {
-  flex: 1;
-} */
-
 .feature-card {
   display: flex;
   flex-direction: column;
@@ -36,6 +32,6 @@
 
 .feature-card p {
   margin-top: 10px;
-  margin-left: 55px; /* aligns paragraph under the heading */
+  margin-left: 55px;
   color: #666;
 }
