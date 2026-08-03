@@ -1,0 +1,41 @@
+.Feature {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+  padding: 20px 80px;
+ 
+ 
+}
+
+/* .Feature1 {
+  flex: 1;
+} */
+
+.feature-card {
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.feature-header {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.feature-header h3 {
+  margin: 0;
+  font-size: 30px;
+}
+
+.feature-icon i {
+  font-size: 40px;
+  color: rgb(245, 89, 61);
+}
+
+.feature-card p {
+  margin-top: 10px;
+  margin-left: 55px; /* aligns paragraph under the heading */
+  color: #666;
+}

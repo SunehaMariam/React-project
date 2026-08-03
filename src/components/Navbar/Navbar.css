@@ -1,0 +1,17 @@
+.Navbar{
+    display: flex;
+    background-color:#fd6438;
+    justify-content: space-around;
+    align-items: center;
+}
+.Navbar li{
+    list-style: none;
+    font-size: 20px;
+}
+.btn{
+    padding: 10px 10px;
+background-color: #fd6438;
+color: white;
+font-family: 16px;
+border-radius: 20px;
+}
